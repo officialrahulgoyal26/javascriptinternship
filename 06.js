@@ -11,5 +11,6 @@
 // console.log(firstName.length)
 
 // last index 
-let firstName="rahulgoyal"
-console.log(firstName[firstName.length-5])
+// let firstName="rahulgoyal"
+// console.log(firstName[firstName.length-5])
+
